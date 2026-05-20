@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "862699860281",
+    "firebase_url": "https://kim69-4474b-default-rtdb.firebaseio.com",
+    "project_id": "kim69-4474b",
+    "storage_bucket": "kim69-4474b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:862699860281:android:0dc25d540cd74b7889b8e8",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBskALYbb08IMZe54yl2bgKT5vdMfOoNKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
